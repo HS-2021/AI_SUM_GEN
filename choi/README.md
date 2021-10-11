@@ -1,5 +1,6 @@
 # 진행상황
 
+## WEEK 1
 - BERTSum 논문 살펴보기
     - BERTSumExt check
     - BERTSumAbs x
