@@ -32,3 +32,11 @@
 
 
 - [ROUGE score](https://huffon.github.io/2019/12/07/rouge/)
+
+
+## 2nd meeting
+- meeting schedule
+    - 19일 online, 23일 online, 24일 offline meeting 예정
+        - 일요일 세 시부터 가능 
+- 경과 보고
+- BERTSum paper review
