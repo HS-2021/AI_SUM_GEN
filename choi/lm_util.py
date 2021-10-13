@@ -16,4 +16,5 @@ def dot_product_scores(x, y):
 
 def cosine(x,y):
     return torch.nn.CosineSimilarity(dim=1, eps=1e-6)(x,y)
+
     
