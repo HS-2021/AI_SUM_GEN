@@ -1,2 +1,5 @@
 pytorch-transformers==1.2.0
 konlpy
+torch
+sentencepiece
+transformers
