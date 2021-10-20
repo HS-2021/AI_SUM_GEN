@@ -37,3 +37,10 @@
 ## WEEK 2
 
 <img src="./raw_data_structure.png">
+
+
+#### doing
+- baseline 코드 분석
+- konlpy & mecab 설치
+- tweepy 오류 수정
+- baseline local test
