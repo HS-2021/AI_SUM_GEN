@@ -43,4 +43,4 @@
 - baseline 코드 분석
 - konlpy & mecab 설치
 - tweepy 오류 수정
-- baseline local test
+- baseline local environment test
